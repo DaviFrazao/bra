@@ -45,6 +45,7 @@ Almost Certainly,90
 Almost Certainly,95
 Almost Certainly,85
 Almost Certainly,95
+Almost Certainly,140
 Highly Likely,80
 Highly Likely,75
 Highly Likely,85
@@ -689,6 +690,7 @@ Almost No Chance,2
 Almost No Chance,1
 Almost No Chance,2
 Almost No Chance,5
+Almost No Chance,-10
 Highly Unlikely,25
 Highly Unlikely,10
 Highly Unlikely,5
