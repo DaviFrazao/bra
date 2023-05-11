@@ -1,0 +1,241 @@
+Countries,features,value
+Argentina,Population,45773.9
+Argentina,Birth rate,13.652
+Argentina,Mortality rate,7.476
+Argentina,Life expectancy,77.982
+Argentina,Infant mortality,84.299
+Argentina,Children per woman,18.617
+Argentina,Growth rate,6.26
+Argentina,Population aged 65,5520.14
+Bolivia,Population,12388.6
+Bolivia,Birth rate,21.302
+Bolivia,Mortality rate,6.642
+Bolivia,Life expectancy,687.766
+Bolivia,Infant mortality,242.041
+Bolivia,Children per woman,2.547
+Bolivia,Growth rate,14.42
+Bolivia,Population aged 65,604.329
+Brazil,Population,216422
+Brazil,Birth rate,12.475
+Brazil,Mortality rate,6.771
+Brazil,Life expectancy,761.768
+Brazil,Infant mortality,103.183
+Brazil,Children per woman,16.214
+Brazil,Growth rate,5.73
+Brazil,Population aged 65,22101.9
+Chile,Population,19629.6
+Chile,Birth rate,11.507
+Chile,Mortality rate,6.406
+Chile,Life expectancy,811.555
+Chile,Infant mortality,55.534
+Chile,Children per woman,15.287
+Chile,Growth rate,1.48
+Chile,Population aged 65,2644.29
+Colombia,Population,52085.2
+Colombia,Birth rate,13.694
+Colombia,Mortality rate,5.51
+Colombia,Life expectancy,775.138
+Colombia,Infant mortality,103.908
+Colombia,Children per woman,16.886
+Colombia,Growth rate,4.84
+Colombia,Population aged 65,4880.42
+Ecuador,Population,18190.5
+Ecuador,Birth rate,16.401
+Ecuador,Mortality rate,4.897
+Ecuador,Life expectancy,780.789
+Ecuador,Infant mortality,103.972
+Ecuador,Children per woman,19.951
+Ecuador,Growth rate,10.33
+Ecuador,Population aged 65,1469.02
+French Guiana,Population,312.161
+French Guiana,Birth rate,24.573
+French Guiana,Mortality rate,3.979
+French Guiana,Life expectancy,776.262
+French Guiana,Infant mortality,7.301
+French Guiana,Children per woman,3.421
+French Guiana,Growth rate,24.41
+French Guiana,Population aged 65,19.328
+Guyana,Population,813.832
+Guyana,Birth rate,19.543
+Guyana,Mortality rate,7.518
+Guyana,Life expectancy,698.008
+Guyana,Infant mortality,209.188
+Guyana,Children per woman,23.478
+Guyana,Growth rate,7.26
+Guyana,Population aged 65,526.275
+Paraguay,Population,6861.53
+Paraguay,Birth rate,20.002
+Paraguay,Mortality rate,5.578
+Paraguay,Life expectancy,741.023
+Paraguay,Infant mortality,158.882
+Paraguay,Children per woman,24.224
+Paraguay,Growth rate,12.62
+Paraguay,Population aged 65,436.709
+Peru,Population,34352.7
+Peru,Birth rate,17.127
+Peru,Mortality rate,5.728
+Peru,Life expectancy,769.567
+Peru,Infant mortality,92.883
+Peru,Children per woman,21.443
+Peru,Growth rate,9.62
+Peru,Population aged 65,2944.88
+Suriname,Population,623.243
+Suriname,Birth rate,17.773
+Suriname,Mortality rate,7.184
+Suriname,Life expectancy,727.889
+Suriname,Infant mortality,142.944
+Suriname,Children per woman,22.938
+Suriname,Growth rate,8.98
+Suriname,Population aged 65,47.285
+Uruguay,Population,3423.11
+Uruguay,Birth rate,10.41
+Uruguay,Mortality rate,9.891
+Uruguay,Life expectancy,781.625
+Uruguay,Infant mortality,56.306
+Uruguay,Children per woman,1.481
+Uruguay,Growth rate,0.08
+Uruguay,Population aged 65,540.327
+Venezuela,Population,28838.5
+Venezuela,Birth rate,15.86
+Venezuela,Mortality rate,7.338
+Venezuela,Life expectancy,728.939
+Venezuela,Infant mortality,136.172
+Venezuela,Children per woman,21.706
+Venezuela,Growth rate,19.61
+Venezuela,Population aged 65,2541.91
+South America,Population,439719
+South America,Birth rate,13.825
+South America,Mortality rate,6.558
+South America,Life expectancy,764.588
+South America,Infant mortality,108.374
+South America,Children per woman,17.901
+South America,Growth rate,7.22
+South America,Population aged 65,43803.5
+Canada,Population,38781.3
+Canada,Birth rate,9.82
+Canada,Mortality rate,7.823
+Canada,Life expectancy,830.213
+Canada,Infant mortality,38.184
+Canada,Children per woman,14.694
+Canada,Growth rate,8.43
+Canada,Population aged 65,7580.09
+United States of America,Population,339997
+United States of America,Birth rate,11.032
+United States of America,Mortality rate,8.579
+United States of America,Life expectancy,797.384
+United States of America,Infant mortality,48.988
+United States of America,Children per woman,16.623
+United States of America,Growth rate,5.39
+United States of America,Population aged 65,59798.3
+Albania,Population,2832.44
+Albania,Birth rate,10.061
+Albania,Mortality rate,10.31
+Albania,Life expectancy,78.061
+Albania,Infant mortality,79.797
+Albania,Children per woman,13.713
+Albania,Growth rate,-3.07
+Albania,Population aged 65,484.759
+Bosnia and Herzegovina,Population,3210.85
+Bosnia and Herzegovina,Birth rate,8.184
+Bosnia and Herzegovina,Mortality rate,14.357
+Bosnia and Herzegovina,Life expectancy,761.779
+Bosnia and Herzegovina,Infant mortality,47.627
+Bosnia and Herzegovina,Children per woman,13.405
+Bosnia and Herzegovina,Growth rate,-6.33
+Bosnia and Herzegovina,Population aged 65,598.894
+Croatia,Population,4008.61
+Croatia,Birth rate,8.364
+Croatia,Mortality rate,13.317
+Croatia,Life expectancy,794.039
+Croatia,Infant mortality,29.468
+Croatia,Children per woman,1.448
+Croatia,Growth rate,-5.45
+Croatia,Population aged 65,911.938
+Greece,Population,10341.3
+Greece,Birth rate,7.359
+Greece,Mortality rate,11.529
+Greece,Life expectancy,819.951
+Greece,Infant mortality,29.965
+Greece,Children per woman,13.754
+Greece,Growth rate,-3.68
+Greece,Population aged 65,2393.91
+Italy,Population,58870.8
+Italy,Birth rate,6.904
+Italy,Mortality rate,10.78
+Italy,Life expectancy,842.034
+Italy,Infant mortality,20.641
+Italy,Children per woman,13.012
+Italy,Growth rate,-2.88
+Italy,Population aged 65,14400
+Kosovo,Population,1663.6
+Kosovo,Birth rate,11.132
+Kosovo,Mortality rate,5.814
+Kosovo,Life expectancy,796.817
+Kosovo,Infant mortality,60.006
+Kosovo,Children per woman,15.068
+Kosovo,Growth rate,2.32
+Kosovo,Population aged 65,175.045
+Malta,Population,535.074
+Malta,Birth rate,9.096
+Malta,Mortality rate,7.441
+Malta,Life expectancy,838.469
+Malta,Infant mortality,52.096
+Malta,Children per woman,12.151
+Malta,Growth rate,3.24
+Malta,Population aged 65,104.751
+Montenegro,Population,626.486
+Montenegro,Birth rate,10.808
+Montenegro,Mortality rate,10.58
+Montenegro,Life expectancy,777.762
+Montenegro,Infant mortality,21.834
+Montenegro,Children per woman,16.704
+Montenegro,Growth rate,-0.54
+Montenegro,Population aged 65,105.945
+North Macedonia,Population,2085.68
+North Macedonia,Birth rate,9.476
+North Macedonia,Mortality rate,11.851
+North Macedonia,Life expectancy,752.568
+North Macedonia,Infant mortality,55.961
+North Macedonia,Children per woman,13.787
+North Macedonia,Growth rate,-2.85
+North Macedonia,Population aged 65,315.603
+Portugal,Population,10247.6
+Portugal,Birth rate,7.758
+Portugal,Mortality rate,11.058
+Portugal,Life expectancy,824.187
+Portugal,Infant mortality,22.996
+Portugal,Children per woman,13.714
+Portugal,Growth rate,-2.32
+Portugal,Population aged 65,2388.14
+Serbia,Population,7149.07
+Serbia,Birth rate,9.114
+Serbia,Mortality rate,16.682
+Serbia,Life expectancy,752.073
+Serbia,Infant mortality,42.215
+Serbia,Children per woman,15.284
+Serbia,Growth rate,-8.97
+Serbia,Population aged 65,1463.87
+Slovenia,Population,2119.68
+Slovenia,Birth rate,8.742
+Slovenia,Mortality rate,9.896
+Slovenia,Life expectancy,82.309
+Slovenia,Infant mortality,13.509
+Slovenia,Children per woman,16.311
+Slovenia,Growth rate,-0.21
+Slovenia,Population aged 65,454.021
+Spain,Population,47519.6
+Spain,Birth rate,7.409
+Spain,Mortality rate,9.153
+Spain,Life expectancy,840.528
+Spain,Infant mortality,21.107
+Spain,Children per woman,12.943
+Spain,Growth rate,-0.9
+Spain,Population aged 65,9853.57
+Southern Europe,Population,151358
+Southern Europe,Birth rate,7.513
+Southern Europe,Mortality rate,10.685
+Southern Europe,Life expectancy,826.723
+Southern Europe,Infant mortality,26.497
+Southern Europe,Children per woman,13.393
+Southern Europe,Growth rate,-2.58
+Southern Europe,Population aged 65,33677.1
